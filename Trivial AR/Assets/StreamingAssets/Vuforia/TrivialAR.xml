@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="videogames" size="1.000000 1.329923" />
+    <ImageTarget name="sports" size="1.000000 1.347150" />
+    <ImageTarget name="science_technology" size="1.000000 1.329923" />
+    <ImageTarget name="physics_chemistry" size="1.000000 1.335917" />
+    <ImageTarget name="philosophy" size="1.000000 1.327366" />
+    <ImageTarget name="music" size="1.000000 1.347150" />
+    <ImageTarget name="maths" size="1.000000 1.343669" />
+    <ImageTarget name="literature_language" size="1.000000 1.335052" />
+    <ImageTarget name="history" size="1.000000 1.309227" />
+    <ImageTarget name="geography" size="1.000000 1.337629" />
+    <ImageTarget name="football" size="1.000000 1.340206" />
+    <ImageTarget name="film_tv" size="1.000000 1.333333" />
+    <ImageTarget name="english" size="1.000000 1.319693" />
+    <ImageTarget name="celebrities" size="1.000000 1.329923" />
+    <ImageTarget name="biology_geology" size="1.000000 1.320611" />
+    <ImageTarget name="art" size="1.000000 1.329923" />
+  </Tracking>
+</QCARConfig>

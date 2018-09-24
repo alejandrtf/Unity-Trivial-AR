@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - prueba
+  - BatGamePanelInstructions
+  - Bat
+  - Butterfly
+  - art
+  - b&g
+  - cel
+  - eng
+  - foot
+  - geo
+  - his
+  - l&l
+  - mat
+  - mus
+  - p&c
+  - phi
+  - s&t
+  - spo
+  - tv
+  - vid
+  - question_panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - book
+  - settingButton
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: settingButton
+    uniqueID: 2805375523
+    locked: 0
+  - name: ss
+    uniqueID: 2389474351
+    locked: 0
+  - name: New Layer
+    uniqueID: 1922878489
+    locked: 0

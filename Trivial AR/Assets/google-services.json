@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "577447286588",
+    "firebase_url": "https://trivial-ar.firebaseio.com",
+    "project_id": "trivial-ar",
+    "storage_bucket": "trivial-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577447286588:android:dc450b58223aa21d",
+        "android_client_info": {
+          "package_name": "com.matf.trivialar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577447286588-h6mqcu1v3j2ipqh2dhdg8f9t8qj3cqjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matf.trivialar",
+            "certificate_hash": "8b1abf7495b6963ddfb21d35238b4565459f7e33"
+          }
+        },
+        {
+          "client_id": "577447286588-7p6cg595sbfi3plr26abnfq6b5dfn45d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matf.trivialar",
+            "certificate_hash": "919c94c4bf6b70434f8a554d2f303fac54e8ce96"
+          }
+        },
+        {
+          "client_id": "577447286588-857itj5hrbsd1s2vjt3ctqskde1qbcu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2FlL_r1XL6LVAFWpDRo89iUaq7ojrww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577447286588-857itj5hrbsd1s2vjt3ctqskde1qbcu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
